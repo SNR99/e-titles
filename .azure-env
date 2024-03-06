@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AUTH_SECRET",
+    "value": "auth-secret-3_DnRKfRlhDOdkbnCU9"
+  },
+  {
+    "name": "AZURE_POSTGRES_PRISMA_URL",
+    "value": "postgres://f5464617:Rt'd4P9[F_I\\~kitvM3(@be-sandbox.postgres.database.azure.com:5432/be-sandbox?connect_timeout=100&pool_timeout=100&socket_timeout=100&sslmode=require"
+  },
+  {
+    "name": "AZURE_POSTGRES_URL_NON_POOLING",
+    "value": "postgres://f5464617:Rt'd4P9[F_I\\~kitvM3(@be-sandbox.postgres.database.azure.com:5432/be-sandbox?sslmode=require"
+  },
+  {
+    "name": "AZURE_COMMUNICATION_EMAIL_CONNECTION_STRING",
+    "value": "endpoint=https://be-sandbox-communication-services.africa.communication.azure.com/;accesskey=PTSIjxFZ+PboeLgEfC1d3CfdqI+H8HP9jRmkIIYM5ip0AYxcuetYGV7u/+vr6IWdZYJFa6JVZqa8aQqlzrntyA=="
+  },
+  {
+    "name": "AZURE_COMMUNICATION_SENDER_ADDRESS",
+    "value": "DoNotReply@4d5ec24a-95c1-4d28-880f-b224a6decec4.azurecomm.net"
+  },
+  {
+    "name": "AZURE_COMMUNICATION_SENDER_DISPLAY_NAME",
+    "value": "Be Sandbox"
+  }
+]
