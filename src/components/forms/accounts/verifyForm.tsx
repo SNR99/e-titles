@@ -51,7 +51,7 @@ export default function VerifyForm() {
 
         if (result?.success) {
           setTimeout(() => {
-            router.push(`/sign-in?email=${data.email}`);
+            router.push(`/sign-in`);
           }, 3000);
         }
       });
