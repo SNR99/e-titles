@@ -49,7 +49,7 @@ export default function ForgotPasswordForm() {
 
 	return (
 		<>
-			<Loader loading={true} />
+			<Loader loading={pending} />
 			<FormError message={error} />
 			<FormSuccess message={success} />
 			<Form {...form}>
